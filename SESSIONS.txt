@@ -1,0 +1,340 @@
+Javascript - Day -1 : Introduction to Browser & web
+              11/10/2021 - Monday
+              Recording Link :
+              https://us02web.zoom.us/rec/share/YaEd9rX6o3SZ_dY6UNV9UZqK0iB-5id0wOCx9zjvBoXPaIMASCMlDZU5xB8jeC-9.FO3j70tg8wKhFuKK?startTime=1633926568000
+              Passcode :No passcode
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Javascript - Day -2 : Request & Response cycle
+              12/10/2021 - Tuesday
+              Recording Link :
+              https://us02web.zoom.us/rec/share/zBfl4ewh27vTG8hCveIo_bhkvv4A_makOYYra4vPmth-COSXuiwLcuG1yqSuBdJ_.d7UEy6AF_TlzpWs-?startTime=1634012705000
+              Passcode : no passcode
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Javascript - Day -3 : JS array & objects
+              13/10/2021 - Wednesday 
+              Recording Link :
+              https://us02web.zoom.us/rec/share/p7I1d-8MtNENhHSsDmbkySVGPF-vslsVRH1U0zrDR4UXVLyfdzTh8HnUnqn51ipo.6tUQla6TUhUFPjSi?startTime=1634098816000
+              Passcode : no passcode
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Javascript - Day -4 : XML HTTP Request
+              20/10/2021 - Wednesday
+              Recording Link :
+              https://us02web.zoom.us/rec/share/ekAKQkS__EiLFJ3qJqNrgtV9gnrRyfYtIaa0yENWRyQFA7oEPkqLspbixesB_zZr.hjN_3SuaDNikoXrF?startTime=1634703520000
+              Passcode :no passcode
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Javascript - Day -5 : Functions
+              18/10/2021 - Monday 
+              Recording Link :
+              https://us02web.zoom.us/rec/share/YAuu30wpmAEekQy8GzT6XzgyXtDCjX1rMKlRD9zPz5yDc7aiH_1b-TCWD7j1aqga.H1j7Bx03lHe5T63p?startTime=1634530807000
+              Passcode : no passcode
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Javascript - Day -6 : Functions recap
+              19/10/2021 - Tuesday
+              Recording Link :
+              https://zoom.us/rec/share/yPhMEKp5bG3RxdxIW1p3KGWxHurCQbjZCQ88ND3qozWYgdXa0KiJxGHBV_b7nzSV.wzJfBSyRE-L60V1S
+              Passcode :dJ3NCs&8
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Javascript - Day -7 : ES5 vs ES6
+              21/10/2021 - Thursday 
+              Recording Link :
+              https://us02web.zoom.us/rec/share/82T3W_9hOzVGGrNhDAEFOugG33mQd5oH5-zmSUtbtj0D7uMcPrwvNeIPlELbGiVh.NLt6JlOoanbuX-nC?startTime=1634789768000
+              Passcode :no passcode
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Javascript - Day -8 : OOP
+               Recording Link :
+               https://us02web.zoom.us/rec/share/82T3W_9hOzVGGrNhDAEFOugG33mQd5oH5-zmSUtbtj0D7uMcPrwvNeIPlELbGiVh.NLt6JlOoanbuX-nC?startTime=1634789768000
+               Passcode :no passcode
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Javascript - Day -9 : MRF - array method
+               22/10/2021 - Friday
+               Recording Link :
+               https://us02web.zoom.us/rec/share/hERraj4togWVSvikTvWl4zMZ7_7ghaTBY-gGbA5JZkfwbbJl39oTrggwJWKz_Oef.jJKvgclURak05tVk?startTime=1634876422000
+               Passcode :no passcode
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+javascript -day -10 :GIT AND NETLIFY Deployment
+              26/10/2021 - Tuesday
+              Recording Link :
+              https://us02web.zoom.us/rec/share/_-MDQHxBWLtgXwDtbBdr_GstCjmeXksjT7rd641ql_24SyAEc6rZ-uCQjVrhbPA5.tEuxv2ssjXf-ufzX?startTime=1635222008000
+              Passcode :no passcode
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sessions Roadmap-day-11
+HTML- Day -1 : HTML
+                   27/10/2021 - Wednesday 
+                   Recording Link :
+                   https://us02web.zoom.us/rec/share/Hh8MLCHyc0DeTuFj8KDmG9Mv2dv6BtsldPKm14GRuTTrmUwVtIctw3JyFftZ650e.y5goS_SVtyIpGqgv?startTime=1635308408000
+                   Passcode :no passcode
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -12
+HTML & CSS- Day -1 : HTML recap CSS
+                        28/10/2021 - Thursday
+                        Recording Link :
+                        https://us02web.zoom.us/rec/share/7Tjs0WKnnGmWUnuBeJYEav6fhcrZjdiWsPAaInxxxP0bxGgoswjzbODIEZ9_-hpN.V1O1xXpJXx6M3bxN?startTime=1635394809000
+                        Passcode :no passcode 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -13
+HTML & CSS- Day -2 : CSS
+                    29/10/2021 - Friday 
+                    Recording Link :
+                    https://us02web.zoom.us/rec/share/g7y0M2CTaQ0L_k_zzVdKd2Rkq6Not6jsYNZjsBE1YjASi-sDAFYdxtCQZGKP3lHH.kYr9V-wtGZJnbbEC?startTime=1635481214000
+                    Passcode :no passcode
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -14
+HTML & CSS- Day -3 : CSS
+                   01/11/2021 - Monday
+                   Recording Link :
+                   https://us02web.zoom.us/rec/share/6GZ8qUN9PuuCNubR3_rJJjpRG01a7QcxM3ZWbYrLHbRczXe2_vrOMGyYXg-8R-Xb.vWbSrrDYjeF7r1rW?startTime=1635740405000
+                   Passcode :no passcode
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -15
+HTML & CSS- Day -1 : Responsive web design
+                     02/11/2021 - Tuesday
+                     Recording Link :
+                     https://us02web.zoom.us/rec/share/Vgj6aNac4ibzhanm3h2gh4n3N5S3JdeiCRdkDUNkO6amkxasSwJQe3ONXkLLNiWj.8VIRth0Q4Siov2ty?startTime=1635826812000
+                     Passcode :No passcode
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -16
+HTML & CSS- Day -2 : Bootstrap design demo
+                     03/11/2021 - Wednesday 
+                     Recording Link :
+                     https://us02web.zoom.us/rec/share/o5vpi_mI9GBqvgrEHJDMs4PUZQX-bOrN7wcQgNTuVBxknn-Hl5CTA9KJybsJlw0.D7z2oDOINy_z0s1M?startTime=1635913205000
+                     Passcode :no passcode
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -17
+          DOM
+                     08/11/2021 - Monday
+                     Recording Link :
+                     https://us02web.zoom.us/rec/share/EZFORmJwYSdgnYuJLOeM-OCtBG4Y0EkUQa_Mi0s5z86FsSU__673-2cY6jQYKj55.G7MPGESjvV-YTTqg
+                     Passcode :no passcode
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -18
+Document vs Window
+                   09/11/2021 - Tuesday 
+                   Recording Link :
+                   https://us02web.zoom.us/rec/share/rwuxZQARLOzL6qOaUzYUbIcX6SaX8Ubeb4x73hduq_x_6ihwgIuYnciMBsLfr-3N.uKl3QQ83iu4LcP4w
+                   Passcode :No passcode
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -19
+Recap of Topics ,Callback
+                  10/11/2021 - Wednesday
+                  Recording Link :
+                  https://us02web.zoom.us/rec/share/sPYb5Y4ZVL1s-AK6d0ltgwI192TAB7YKnJSwf4KiZ_2DICagldFpxfY46dKYjj8I.KL3E2Jib__M52P5_
+                  Passcode :No Passcode
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -20
+
+Date Manipulation using DOM (English)
+                     Recording Link :
+                     https://zoom.us/rec/share/efPQS4EH69rUHVIK875XI1S1m-yx7Ez9bxzqk2_bUN3_THwnbCQzVpUiWRop5PY.WbRw3xzcirwk67-g
+                     Passcode :sUh54!UT
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -21
+Callback,
+               10/11/2021 - Wednesday
+               Recording Link :
+               https://us02web.zoom.us/rec/share/_tqaybM94Od8VEQ4qqO10M_TPgS3E8uYKG3V8gvskX0lnY1AJnI8SuEg0Bq2Z-nN.pqZ2NCOO6FyFV9VF
+               Passcode :No Passcode
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -22
+        Promise
+                 11/11/2021 - Thursday
+                 Recording Link :
+                 https://us02web.zoom.us/rec/share/sndB_lFZrYvzcElvBf7yTL8Yh2jLThf9KDBlDoIrPMmQlso7uYI4qD6PL6h_aOyE.YGAs-sydrel9bMTr
+                 Passcode :No Passcode
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -23
+        Fetch Api
+                 15/11/2021 - Monday
+                 Recording Link :
+                 https://us02web.zoom.us/rec/share/rXroyA2y_WbTdagWs08U9j4G-nApHD_WXL9hMLDp8I_4gH9jougKkKPIdYkVStY3.1jWZM90pXC-sqQvh
+                 Passcode :No Passcode
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -24
+Promise, fetch - request info & request init
+                  16/11/2021 - Tuesday
+                  Recording Link :
+                  https://us02web.zoom.us/rec/share/v6M_aowFC10piFOtvEmd1NujxmmDPlykV1W9u41bfl1yl1bf1aDpWW-lPcnq61pR.Ks73ejXWjb2wsc-X
+                  Passcode :No passcode
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -25
+Recap of Topics
+                02/12/2021 - Thursday
+                Recording Link :
+                https://us02web.zoom.us/rec/share/UzQ-0gnJ_EmDtfpHB9HUwClp2S9r5w_9B7MpBVL-8DiGBXSv5R2efrJ6YglpTyvV.R1Oic5YCfhxWS3GN
+                Passcode :No Passcode
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -26
+     React
+                13/12/2021 - Monday 
+                Recording Link :
+                https://zoom.us/rec/share/qk7ZS6pc2WSbOBEOI091E1a01X0BD9JEjhzebmCRfskrNMXD_d8JmoZyb87VouA.7q370oAS5VlTt5de
+                Passcode :ER?h1=0*
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ADDITONAL SESSION
+               Dynamic Properties
+               14/12/2021 - Tuesday
+              Recording Link :
+              https://zoom.us/rec/share/WKqqdAtCTzTaDhHKm5efGQY2W5VOkKrGpAxYoDLKEVpMUxqFHDKq-Jd9coTjo4j4.ZrA9VYsIZUYN2KUh
+              Passcode :^53Skw1^       
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap- day -27
+React hooks & states
+               15/12/2021 - Wednesday
+               Recording Link :
+               https://zoom.us/rec/share/-i0c-clHLne4AlXzxITKw4nD0F0YolbNvxrGIa-r8d_N4xlMflYXfqdtSmjTihYU.DYPOW5xIomOfaE9F
+               Passcode :g4@?xLhp
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ADDITONAL SESSION
+               React Hooks & States: Day -2
+               16/12/2021 - Thursday
+               Recording Link :
+               https://zoom.us/rec/share/uCVdhyw_Pvo7kICdrN-EQaKYaS832XJYZZANl8D7cgHXhzP5Y5xzdH4eSfJa5OBd.rFaotPzjZp0LyY0P
+               Passcode :5n$Py&W3
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ADDITONAL SESSION
+               Recap: Introduction to React
+               17/12/2021 - Friday
+               Recording Link :
+               https://zoom.us/rec/share/U1ckunvEWACZ4LqwcRsS5FvBB5vPbYWkG7JicpOWGDxbg2FoDnAmnPSkUOzE56x1.G46opGZZYh1-hqw3
+               Passcode :?qM9ew=3
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-28
+
+additional session
+               React Router Dom Intro
+               20/12/2021 - Monday
+               Recording Link :
+               https://zoom.us/rec/share/Yy-ZS3KMpVad6L6VajMS5I3L4e1KAA_Z188Gugma6f1ZTbGp3pqn21u-HlgaFPJ3.xMbH7pkhdJcpPcQo
+               Passcode :74a6a+eK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-28
+ React Router
+                21/12/2021 - Tuesday
+                Recording Link :
+                https://zoom.us/rec/share/lNg86LWMy2mWJ7EDuICEq3UXq90i7l3UNCPae_HiNfrTr3FjZjpohjsBvctxbWw-.Tu4anxTCLWT8-rqI
+                Passcode :NJkH2?*9
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-29
+ React Router: Day - 2
+                    22/12/2021 - Wednesday 
+                    Recording Link :
+                    https://zoom.us/rec/share/8WqsWAD29XgmkJiape6M8vb0-BjAQPngeHYhq-Zvo3hH3g_HQnCgnkmMkmqj00Rl.gu365dkSa5kNCdt9
+                    Passcode :gt9kRA+4
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-30
+ Context API
+                    23/12/2021 - Thursday
+                    Recording Link :
+                    https://zoom.us/rec/share/HFfZf5FEB8EQyBJMFZ_NjsHOUJebDFGFcCIOsApuTgRfj8fMECG1sBRbvFAG9gyg.VKuIm1EhYHNlVWq6
+                    Passcode :g=!#1pN&
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-31
+ Recap of Topics
+                    24/12/2021 - Friday
+                    Recording Link :
+                    https://zoom.us/rec/share/OdocVm9MJI2s8LEh55_atJ4tRCUiEzqju_PWWcBsJC9TgHdbAN0nls64YS0vsoET.q4B9NWlpW4iNF5C9
+                    Passcode :4&=4!VDA
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-32
+ Axios
+                   27/12/2021 - Monday
+                   Recording Link :
+                   https://zoom.us/rec/share/SWdYLh4u3J8-EoO882keUWEGvUceL-IYwz5zdfBsKOrHfLIKxetIbC8mSMh9ueSc.7O0hWsdjKIEwZLG4
+                   Passcode :*51VLHm1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-33
+ Use Reducer
+                   28/12/2021 - Tuesday
+                   Recording Link :
+                   https://zoom.us/rec/share/FtSQw5DER1Mnu4Di0YFJ1de25VXzoWmKG3b_EDkln741Les35BlSnbKHMncbHYxd.4oPtpKufgS0BbGRP
+                   Passcode :6w1Ns6p^
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-34
+ Database - MySQL
+                   29/12/2021 - Wednesday
+                   Recording Link :
+                   https://zoom.us/rec/share/lF63H15bIFv8iw8q7YVW-4Kt2DEhn9Fs3xTX1CxOPWLDPtKJgowTMlsLaJo76X7G.fLY_FrX9nj2WvqOR
+                   Passcode :26*kW%y2
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-35
+ Database - MySQL: Day - 2
+                      30/12/2021 - Thursday
+                      Recording Link :
+                      https://zoom.us/rec/share/tycG4vPwAiL8AEQ2jbQV9vy2xiVL3RmUL37f6lcW3HXtAvIcxZyh9cRWa3vdymnX.KxZu-X6adsE1D_6K
+                      Passcode :0=hN%hCb
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-36
+ Recap Of MySQL
+                      31/12/2021 - Friday
+                      Recording Link :
+                      https://zoom.us/rec/share/GBJEK8HGT_B6C4QnAKUdtTxE4qyPJR7WgHWkjq9asRc_tsZPIY3v6-OVPtEFYBLQ.MFe6d1mfG3oBFwCC
+                      Passcode :pp*1+vC+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-37
+ Database - MongoDB
+                     03/01/2022 - Monday
+                     Recording Link :
+                     https://zoom.us/rec/share/e3ODhA4AtdbDmsq4LwyeE_zOagwqH3C-qKQuH2EHpGct5urJasf0SjOrJXDyOLMm.otRAXal-ByDgOX3r
+                     Passcode :GnGbD7#8
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-38
+ Database - MongoDB
+                     04/01/2022 - Tuesday
+                     Recording Link :
+                     https://zoom.us/rec/share/buCANjDFk-6GrW3IVCDdoDiQqJcRcsmvIMkjAeFHEtF5U05Mz6U8aMDpe0WPy5Lb.s2njDxd977dZ7uIL
+                     Passcode :j$B9bWD.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-39
+    Nodejs
+                     05/01/2022 - Wednesday 
+                     Recording Link :
+                     https://zoom.us/rec/share/byNBUEd-3zzrW4vwJlERLfMnS4Ef32mTf6gL0Jyhin4UtG_KY3rzJlWskXH0chFY.jOmjDkSpRcyJZFiz
+                     Passcode :nsc*+b9E
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-40
+ Nodejs & Expressjs
+                     07/01/2022 - Friday 
+                     Recording Link :
+                     https://zoom.us/rec/share/Hp6szLSlAhRExQH5LnlwUDbFBAuWolDB2CZ6KljMLyNDs2FF8Q01WCNfMEdpq9AR.qrP3TJu-jM2-i5yr
+                     Passcode :Z=D$R4Ys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-41
+  CRUD Operation Using Expressjs
+                      10/01/2022 - Monday
+                      Recording Link :
+                      https://zoom.us/rec/share/1c5PKEvFFHOqwQlc66PM3gDp-KCqq8JrmYpNm8KZfl3wl7hbe-iPwg-UO3yyPTat.recXbv_qKxZUSgrY
+                      Passcode :nRGHd1y@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-42
+ Node & mongo DB connectivity
+                      11/01/2022 - Tuesday
+                      Recording Link :
+                      https://zoom.us/rec/share/UFzHsp9T-vf0QUZ5skdp6I__5mQbvEqv8taZINeEkrBLUeflJ3QsSePPjn0Duvvx.oL2xAq1xyHxUC15g
+                      Passcode :$X^mT4!j
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-43
+ User Registration in Nodejs
+                     12/01/2022 - Wednesday
+                     Recording Link :
+                     https://zoom.us/rec/share/8YcaD1UzF3a4-yk2UOnogY20M4D6gaHTwpyhC5barT4qivyJ7-JTObUaO2eWsbyg.iuAoZ7pYUOd3z_DR
+                     Passcode :!ruZ32d5
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-44
+ Authentication
+                     13/01/2022 - Thursday
+                     Recording Link :
+                     https://zoom.us/rec/share/cbV069FwHopq_VoiV6_-h3BngLTEPK_ZrjdAFADFWZpT26Hjd4bmDC_3eqIewlYf.xo4Ana8Bcfvv5cbq
+                     Passcode :q$hFP.z3
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Session Roadmap -day-45 
+ 
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
